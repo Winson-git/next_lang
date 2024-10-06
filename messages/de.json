@@ -1,0 +1,10 @@
+{
+    "Homepage": {
+      "title": "Hello France",
+      "content": "This is the homepage content"
+    },
+    "About": {
+        "title": "About us",
+        "content": "This is the about us content"
+    }
+}
