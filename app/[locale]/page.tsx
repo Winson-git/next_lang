@@ -23,3 +23,4 @@ export default function Home() {
 
 // if use Link for navigation ; use nextLink from navigation.ts instead of nextLink
 
+// can use i18n extension ally for the lang purpose 
