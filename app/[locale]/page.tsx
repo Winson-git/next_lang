@@ -21,3 +21,5 @@ export default function Home() {
 // if use cleint 
 // need to be clear ; if cant work need to pass from parent component 
 
+// if use Link for navigation ; use nextLink from navigation.ts instead of nextLink
+
